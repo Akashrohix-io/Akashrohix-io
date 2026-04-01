@@ -1,4 +1,4 @@
-# 🌌 こんにちは 👋 I'm Rohith M C
+#👋 I'm Rohith M C
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=3rd+Year+CSE+Student;DSA+%7C+C%2B%2B+Developer;Future+Software+Engineer;Anime+%E2%9D%A4%EF%B8%8F+%2B+Coding+%F0%9F%92%BB" />
 
